@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "mohanlal",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUCZMlHN850pB4xPQenOQwnbEPRaLf1sGmjA&s",
+      "phone": "66573832255",
+      "email": "mohanlal@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "mammootty",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcalxtY0MnEH4thD2dfbhxI3WZne0kqt7pqQ&s",
+      "phone": "9876543369",
+      "email": "mammootty@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "vijay",
+      "photo": "https://images.news18.com/ibnlive/uploads/2024/01/image-3-31-2024-01-547c6c81199dc5f01cd8314a938143bb.jpg?impolicy=website&width=640&height=480",
+      "phone": "9876543210",
+      "email": "vijay2026@gmail.com",
+      "id": 3
+    }
+  ]
+}
